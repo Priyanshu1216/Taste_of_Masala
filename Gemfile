@@ -62,6 +62,9 @@ end
 
 gem "bootsnap", require: false
 gem "devise" 
+gem 'activeadmin'
+gem 'sassc'
+gem 'active_admin_theme'
 
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
